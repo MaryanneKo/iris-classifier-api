@@ -1,0 +1,5 @@
+#I can install everything with one command
+#with pip install -r requirements.txt at the terminal
+pandas
+scikit-learn
+joblib
